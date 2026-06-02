@@ -1,4 +1,4 @@
-﻿---
+---
 name: ai-pairing-playbook
 description: Use when a user wants to make their AI pair-programming sessions more effective. Establishes 6 prompt-shifts + 3 work-lanes + a drift-tell catalog (correctness + communication). Two-party - addresses both the user's and the assistant's habits. Packaged as a project-local "partner notes" doc the user can reference between sessions.
 ---
